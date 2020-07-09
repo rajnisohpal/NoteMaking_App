@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account">Already have an account?&#160;</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">SignUp</string>
+    <string name="does_t_have_an_account">Does\'t have an account?&#160;</string>
+    <string name="home">Notes</string>
+    <string name="pwd_mismatch">Password and confirm Password does\'t match</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="ok">OK</string>
+</resources>

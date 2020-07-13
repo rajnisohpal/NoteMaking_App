@@ -21,6 +21,9 @@ This app is used to store essential notes like password and other important info
 
 We were 2 people of team when this project started and we managed all task management by using **Android Studio** .
 
+Currently we are working to add more user friendly features to improve User Interface and any contribution will be appericiated. 
+
+
 ## Contact
 
 If you have any doubt, suggestion then you can [open issue](HTTPS://guides.github.com/features/issues/) at this repository. :wave:
